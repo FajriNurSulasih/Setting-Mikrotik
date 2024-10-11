@@ -1,0 +1,2 @@
+# Setting-Mikrotik
+Menginstal mikrotik
